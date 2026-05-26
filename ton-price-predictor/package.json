@@ -1,0 +1,14 @@
+{
+  "name": "ton-price-predictor",
+  "version": "1.0.0",
+  "description": "Simple TON price predictor using moving averages",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "license": "MIT"
+}
