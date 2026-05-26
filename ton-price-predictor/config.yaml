@@ -1,0 +1,3 @@
+api_endpoint: "https://api.example.com/ton/price"
+alpha: 0.95
+beta: 0.05
