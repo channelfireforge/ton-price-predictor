@@ -1,0 +1,1 @@
+"""TON Price Predictor package."""
